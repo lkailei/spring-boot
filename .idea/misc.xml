@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-03-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-config-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-start-test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
