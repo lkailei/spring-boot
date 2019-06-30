@@ -14,6 +14,7 @@
         <module name="spring-boot-data-jdbc" />
         <module name="spring-boot-data-jpa" />
         <module name="spring-boot-data-mybatis" />
+        <module name="spring-boot-data-redis" />
         <module name="spring-boot-helloword" />
         <module name="spring-boot-jpa" />
         <module name="spring-boot-logging" />
@@ -33,6 +34,7 @@
       <module name="spring-boot-data-jdbc" target="1.8" />
       <module name="spring-boot-data-jpa" target="1.8" />
       <module name="spring-boot-data-mybatis" target="1.8" />
+      <module name="spring-boot-data-redis" target="1.8" />
       <module name="spring-boot-helloword" target="1.8" />
       <module name="spring-boot-jpa" target="1.8" />
       <module name="spring-boot-logging" target="1.8" />
@@ -50,6 +52,7 @@
       <module name="spring-boot-data-jdbc" options="-parameters" />
       <module name="spring-boot-data-jpa" options="-parameters" />
       <module name="spring-boot-data-mybatis" options="-parameters" />
+      <module name="spring-boot-data-redis" options="-parameters" />
       <module name="spring-boot-helloword" options="-parameters" />
       <module name="spring-boot-jpa" options="-parameters" />
       <module name="spring-boot-start-test" options="-parameters" />

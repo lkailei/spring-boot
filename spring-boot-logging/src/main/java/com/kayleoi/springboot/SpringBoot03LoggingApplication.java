@@ -3,6 +3,9 @@ package com.kayleoi.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 测试日志
+ */
 @SpringBootApplication
 public class SpringBoot03LoggingApplication {
 

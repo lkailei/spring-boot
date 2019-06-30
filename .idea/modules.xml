@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-data-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-mybatis/spring-boot-data-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-data-mybatis/spring-boot-data-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-data-redis/spring-boot-data-redis.iml" filepath="$PROJECT_DIR$/spring-boot-data-redis/spring-boot-data-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-helloword/spring-boot-helloword.iml" filepath="$PROJECT_DIR$/spring-boot-helloword/spring-boot-helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" filepath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" />

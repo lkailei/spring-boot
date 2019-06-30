@@ -35,10 +35,15 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
+        <!--springboot就是把这个作为日志的self4j里面的-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-log4j2</artifactId>
+        </dependency>
+        <!--这个会使用log4j的的框架-->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
         </dependency>
 
         <dependency>
