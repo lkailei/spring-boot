@@ -26,9 +26,12 @@ public class DruidConfig {
     public DataSource druid(){
        return  new DruidDataSource();
     }
-
-    //配置Druid的监控
-    //1、配置一个管理后台的Servlet
+    
+    /**
+     * 配置Druid的监控
+     *1、配置一个管理后台的Servlet
+     * @return
+     */
     @Bean
     public ServletRegistrationBean statViewServlet(){
         ServletRegistrationBean bean = new ServletRegistrationBean(new StatViewServlet(), "/druid/*");

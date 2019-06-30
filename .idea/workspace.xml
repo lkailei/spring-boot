@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed96afc6-1a9c-466d-9c42-14ee478c33dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-config-autoconfig/src/main/java/com/kayleoi/springboot/SpringBoot02ConfigAutoconfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-config-autoconfig/src/main/java/com/kayleoi/springboot/SpringBoot02ConfigAutoconfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-config-autoconfig/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-config-autoconfig/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-config/src/main/java/com/kayleoi/springbootconfig/SpringBootConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-config/src/main/java/com/kayleoi/springbootconfig/SpringBootConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jdbc/src/test/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jdbc/src/test/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/SpringBootJpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/SpringBootJpaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jpa/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/SpringBootDataMybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/SpringBootDataMybatisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/src/main/java/com/kayleoi/springboot/SpringBoot03LoggingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/src/main/java/com/kayleoi/springboot/SpringBoot03LoggingApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/target/classes/com/kayleoi/springboot/SpringBoot03LoggingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/target/classes/com/kayleoi/springboot/SpringBoot03LoggingApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-logging/target/classes/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-logging/target/classes/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-start-test/src/main/java/com/kayleoi/springbootstarttest/SpringBootStartTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-start-test/src/main/java/com/kayleoi/springbootstarttest/SpringBootStartTestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-jsp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-jsp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-jsp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-jsp/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/SpringBootWebRestfulcurdApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/SpringBootWebRestfulcurdApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-boot-helloword/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-yml/target/" />
@@ -99,7 +49,7 @@
           <entry key="CLASS" value="6" />
           <entry key="HTML" value="4" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="95" />
+          <entry key="JAVA" value="96" />
           <entry key="JSP" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -113,7 +63,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="317" />
-          <entry key="JAVA" value="3119" />
+          <entry key="JAVA" value="3126" />
           <entry key="Properties" value="581" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="635" />
@@ -124,15 +74,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/SpringBootJpaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Department.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -174,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/DepartmentMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/EmployeeMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -214,11 +155,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
+            <state relative-caret-position="589">
               <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -291,7 +244,6 @@
         <option value="$PROJECT_DIR$/spring-boot-start-test/src/main/java/com/kayleoi/springbootstarttest/SpringBootStartTestApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-config/src/main/java/com/kayleoi/springbootconfig/SpringBootConfigApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-config-autoconfig/src/main/java/com/kayleoi/springboot/SpringBoot02ConfigAutoconfigApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/controller/UserController.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/entity/User.java" />
@@ -305,6 +257,7 @@
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/MyBatisConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/DruidConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" />
       </list>
     </option>
   </component>
@@ -382,7 +335,47 @@
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-web-restfulcurd" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdatajdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdatajdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -398,7 +391,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561904506645" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561904961801" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -664,7 +657,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561795688480</updated>
       <workItem from="1561795690966" duration="15235000" />
-      <workItem from="1561862666231" duration="27209000" />
+      <workItem from="1561862666231" duration="27665000" />
     </task>
     <servers />
   </component>
@@ -701,7 +694,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42444000" />
+    <option name="totallyTimeSpent" value="42900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="4" width="1330" height="770" extended-state="0" />
@@ -1044,16 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/controller/JdbcController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1139,7 +1122,7 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/DepartmentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1149,7 +1132,7 @@
     <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/EmployeeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1185,8 +1168,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
+        <state relative-caret-position="589">
           <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
