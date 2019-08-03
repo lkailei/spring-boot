@@ -19,7 +19,7 @@ public class SpringBootDataJdbcApplicationTests {
     public void contextLoads() throws Exception{
         System.out.println(dataSource.getClass());
         Connection connection=dataSource.getConnection();
-        System.out.println(connection);
+        System.out.println("driver:"+connection);
         connection.close();
 
     }

@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-02-config-autoconfig.iml" filepath="$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-02-config-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-logging/spring-boot-03-logging.iml" filepath="$PROJECT_DIR$/spring-boot-logging/spring-boot-03-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-Redis-master/spring-boot-Redis-master.iml" filepath="$PROJECT_DIR$/spring-boot-Redis-master/spring-boot-Redis-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache/spring-boot-cache.iml" filepath="$PROJECT_DIR$/spring-boot-cache/spring-boot-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" filepath="$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-config-autoconfig.iml" filepath="$PROJECT_DIR$/spring-boot-config-autoconfig/spring-boot-config-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-data-jdbc/spring-boot-data-jdbc.iml" />

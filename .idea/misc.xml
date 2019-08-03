@@ -22,6 +22,8 @@
         <option value="$PROJECT_DIR$/spring-boot-start-test/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-data-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-Redis-master/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/pom.xml" />
       </list>
     </option>
   </component>

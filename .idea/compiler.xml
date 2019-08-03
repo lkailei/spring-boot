@@ -9,6 +9,7 @@
         <module name="myproject" />
         <module name="spring-boot-02-config-autoconfig" />
         <module name="spring-boot-03-logging" />
+        <module name="spring-boot-cache" />
         <module name="spring-boot-config" />
         <module name="spring-boot-config-autoconfig" />
         <module name="spring-boot-data-jdbc" />
@@ -18,6 +19,7 @@
         <module name="spring-boot-helloword" />
         <module name="spring-boot-jpa" />
         <module name="spring-boot-logging" />
+        <module name="spring-boot-Redis-master" />
         <module name="spring-boot-start-test" />
         <module name="spring-boot-starter" />
         <module name="spring-boot-web-jsp" />
@@ -29,6 +31,7 @@
       <module name="myproject" target="1.8" />
       <module name="spring-boot-02-config-autoconfig" target="1.8" />
       <module name="spring-boot-03-logging" target="1.8" />
+      <module name="spring-boot-cache" target="1.8" />
       <module name="spring-boot-config" target="1.8" />
       <module name="spring-boot-config-autoconfig" target="1.8" />
       <module name="spring-boot-data-jdbc" target="1.8" />
@@ -38,6 +41,7 @@
       <module name="spring-boot-helloword" target="1.8" />
       <module name="spring-boot-jpa" target="1.8" />
       <module name="spring-boot-logging" target="1.8" />
+      <module name="spring-boot-Redis-master" target="1.8" />
       <module name="spring-boot-start-test" target="1.8" />
       <module name="spring-boot-starter" target="1.8" />
       <module name="spring-boot-web-jsp" target="1.8" />
@@ -48,6 +52,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="myproject" options="-parameters" />
+      <module name="spring-boot-cache" options="" />
       <module name="spring-boot-config" options="-parameters" />
       <module name="spring-boot-data-jdbc" options="-parameters" />
       <module name="spring-boot-data-jpa" options="-parameters" />

@@ -14,8 +14,8 @@ import org.springframework.context.annotation.Configuration;
 import java.util.Arrays;
 
 /**
- * 出错：：：
  *
+ *配置嵌入式的
  */
 @Configuration
 public class MyServerConfig {

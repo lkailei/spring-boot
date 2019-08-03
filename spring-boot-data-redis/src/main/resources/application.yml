@@ -4,9 +4,10 @@ spring:
     port: 6379
     timeout: 5000
     database: 0
-    pool:
-      max-active: 10
-      max-idle: 8
-      min-idle: 2
-      max-wait: 100
-    #password: 我的redis没有密码
+    jedis:
+        pool:
+          max-active: 10
+          max-idle: 8
+          min-idle: 2
+          max-wait: 100
+        #password: 我的redis没有密码

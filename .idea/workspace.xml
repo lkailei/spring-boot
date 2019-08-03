@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed96afc6-1a9c-466d-9c42-14ee478c33dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring-boot-helloword/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-yml/target/" />
@@ -19,6 +23,8 @@
     <ignored path="$PROJECT_DIR$/spring-boot-start-test/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-data-jpa/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-data-redis/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-Redis-master/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-cache/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,141 +40,52 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="171" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1145747617">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="6" />
-          <entry key="HTML" value="4" />
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="96" />
-          <entry key="JSP" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="27" />
-          <entry key="SQL" value="1" />
-          <entry key="UML" value="1" />
-          <entry key="XML" value="39" />
-          <entry key="YAML" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="317" />
-          <entry key="JAVA" value="3126" />
-          <entry key="Properties" value="581" />
-          <entry key="SQL" value="1" />
-          <entry key="XML" value="635" />
-          <entry key="YAML" value="641" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Department.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/SpringBootCacheApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/mapper/DepartmentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/controller/DeartmentController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/controller/DeptController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#809#810#0" expanded="true" />
-                <element signature="e#864#865#0" expanded="true" />
-                <element signature="e#1119#1120#0" expanded="true" />
-                <element signature="e#1170#1171#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/DepartmentMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/EmployeeMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/DruidConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-              <folding>
-                <element signature="e#789#790#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/service/EmployeeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="1066">
+              <caret line="99" column="33" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,13 +94,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/MyBatisConfig.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/config/MyRedisConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="190">
+              <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
               <folding>
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/mapper/EmployeeMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/service/DepartmentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,6 +137,7 @@
         <option value="FxmlFile" />
         <option value="spring-beans.schema" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -207,50 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/listener/MyListener.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/servlet/MyServlet.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/filter/MyFilter.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/exception/UserNotExistException.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/controller/MyExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/controller/LoginController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/controller/EmployeeController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/config/MyMvcConfig.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-jsp/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/java/com/kayleoi/springbootwebjsp/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/java/com/kayleoi/springbootwebjsp/ServletInitializer.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/test/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplicationTests.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/controller/JdbcController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/SpringBootDataMybatisApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/utils/RedisObjectSerializer.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/bean/Member.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application-redis.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/RedisTwoConfig.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/controller/RedisTestController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/test/java/com/kayleoi/springbootdataredis/SpringBootDataRedisApplicationTests.java" />
-        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/config/MyServerConfig.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-start-test/src/main/java/com/kayleoi/springbootstarttest/SpringBootStartTestApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-config/src/main/java/com/kayleoi/springbootconfig/SpringBootConfigApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-config-autoconfig/src/main/java/com/kayleoi/springboot/SpringBoot02ConfigAutoconfigApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/entity/User.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/SpringBootJpaApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/controller/DeptController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Department.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Employee.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/DepartmentMapper.java" />
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/EmployeeMapper.java" />
@@ -258,6 +155,50 @@
         <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/DruidConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/utils/JedisClientCluster.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/utils/JedisClient.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/utils/JedisClientPool.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/jedis/JedisClientCluster.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/test/java/com/kayleoi/springbootdataredis/jedis/JedisTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/jedis/Appconfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/sentinel/AppConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/Lettuce/AppConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/config/MyServerConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/webapp/hello.jsp" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/java/com/kayleoi/springbootwebjsp/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/java/com/kayleoi/springbootwebjsp/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/webapp/WEB-INF/success.jsp" />
+        <option value="$PROJECT_DIR$/spring-boot-web-jsp/src/main/java/com/kayleoi/springbootwebjsp/SpringBootWebJspApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/controller/JdbcController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-Redis-master/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-Redis-master/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/test/java/com/kayleoi/springbootjpa/SpringBootJpaApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/main/resources/application-druid.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/src/test/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/config/MyCacheConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-Redis-master/src/main/java/com/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/SpringBootCacheApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/mapper/DepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/service/DepartmentService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/bean/Employee.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/test/java/com/kayleoi/springbootcache/SpringBootCacheApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/config/MyRedisConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -285,15 +226,20 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-cache" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="93" />
-    <option name="y" value="5" />
-    <option name="width" value="1663" />
-    <option name="height" value="963" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="265" />
+    <option name="y" value="228" />
+    <option name="width" value="1403" />
+    <option name="height" value="1023" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -306,10 +252,19 @@
           <State>
             <id>Java</id>
           </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Deprecation</id>
+            <id>SpringFacetInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -323,59 +278,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdatajdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-data-jdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdatajdbc" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -387,33 +297,47 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="RedisCa&#9;FILE&#9;jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/RedisCacheConfiguration.java&#10;cacau&#9;FILE&#9;jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/CacheAutoConfiguration.java&#10;Cache&#9;FILE&#9;jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCacheManager.java&#10;RedisCacheConfig&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.cache.RedisCacheConfiguration&#10;RedisCacheMa&#9;PSI&#9;JAVA://org.springframework.data.redis.cache.RedisCacheManager&#10;RedisCache&#9;PSI&#9;JAVA://org.springframework.data.redis.cache.RedisCache&#10;CacheMa&#9;PSI&#9;JAVA://org.springframework.cache.CacheManager&#10;CacheAutoConfiguration&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561904961801" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564820738552" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-data-jpa/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kayleoi.springbootdataredis.jedis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\spring-boot" />
+      <recent name="F:\Java\spring-boot\spring-boot-cache\src\main\java\com\kayleoi\springbootcache\bean" />
+      <recent name="F:\Java\spring-boot\spring-boot-data-jpa\src\main\java\com\kayleoi\springbootjpa" />
+      <recent name="F:\Java\spring-boot\spring-boot-data-jpa\src\main\resources" />
+      <recent name="F:\Java\spring-boot\spring-boot-data-mybatis\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Java\spring-boot\spring-boot-web-jsp\src\main\java\com\kayleoi\springbootwebjsp" />
       <recent name="F:\Java\spring-boot\spring-boot-web-jsp\src\main" />
       <recent name="F:\Java\spring-boot\spring-boot-web-restfulcurd\src\main\java\com\kayleoi\springbootwebrestfulcurd\component" />
       <recent name="F:\Java\spring-boot\spring-boot-web-restfulcurd\src\main\resources" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Java\spring-boot\spring-boot-data-jpa\src\main\java\com\kayleoi\springbootjpa" />
-      <recent name="F:\Java\spring-boot\spring-boot-data-jpa\src\main\resources" />
-      <recent name="F:\Java\spring-boot\spring-boot-data-mybatis\src\main\resources" />
-      <recent name="F:\Java\spring-boot\spring-boot-data-mybatis\src\main\java\com\kayleoi\springbootdatamybatis" />
-      <recent name="F:\Java\spring-boot\spring-boot-data-jdbc\src\main\java\com\kayleoi\springbootdatajdbc" />
-    </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -424,19 +348,68 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.11953552" />
   </component>
-  <component name="RunManager" selected="JUnit.SpringBootDataRedisApplicationTests.contextLoads">
-    <configuration name="SpringBoot03LoggingApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-logging" />
+  <component name="RunManager" selected="Spring Boot.SpringBootCacheApplication">
+    <configuration name="JedisTest.testJedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-data-redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kayleoi.springboot.*" />
+          <option name="PATTERN" value="com.kayleoi.springbootdataredis.jedis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kayleoi.springboot" />
-      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springboot.SpringBoot03LoggingApplicationTests" />
+      <option name="PACKAGE_NAME" value="com.kayleoi.springbootdataredis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootdataredis.jedis.JedisTest" />
+      <option name="METHOD_NAME" value="testJedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.testJedisPool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-data-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kayleoi.springbootdataredis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kayleoi.springbootdataredis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootdataredis.jedis.JedisTest" />
+      <option name="METHOD_NAME" value="testJedisPool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootCacheApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kayleoi.springbootcache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kayleoi.springbootcache" />
+      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootcache.SpringBootCacheApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootCacheApplicationTests.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kayleoi.springbootcache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kayleoi.springbootcache" />
+      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootcache.SpringBootCacheApplicationTests" />
+      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -453,54 +426,6 @@
       <option name="PACKAGE_NAME" value="com.kayleoi.springbootdatajdbc" />
       <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootdatajdbc.SpringBootDataJdbcApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringBootDataRedisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-data-redis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kayleoi.springbootdataredis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kayleoi.springbootdataredis" />
-      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootdataredis.SpringBootDataRedisApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringBootDataRedisApplicationTests.getSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-data-redis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kayleoi.springbootdataredis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kayleoi.springbootdataredis" />
-      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootdataredis.SpringBootDataRedisApplicationTests" />
-      <option name="METHOD_NAME" value="getSet" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringBootDataRedisApplicationTests.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-data-redis" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kayleoi.springbootdataredis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.kayleoi.springbootdataredis" />
-      <option name="MAIN_CLASS_NAME" value="com.kayleoi.springbootdataredis.SpringBootDataRedisApplicationTests" />
-      <option name="METHOD_NAME" value="testSet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -537,6 +462,13 @@
     <configuration name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-03-logging" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot03LoggingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kayleoi.springbootcache.SpringBootCacheApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -626,20 +558,21 @@
       <item itemvalue="Spring Boot.SpringBootDataMybatisApplication" />
       <item itemvalue="Spring Boot.SpringBootStarterApplication" />
       <item itemvalue="Spring Boot.SpringBootStartTestApplication" />
-      <item itemvalue="JUnit.SpringBoot03LoggingApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.SpringBootDataJdbcApplicationTests.contextLoads" />
       <item itemvalue="Spring Boot.SpringBootDataRedisApplication" />
-      <item itemvalue="JUnit.SpringBootDataRedisApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.SpringBootDataRedisApplicationTests.testSet" />
-      <item itemvalue="JUnit.SpringBootDataRedisApplicationTests.getSet" />
+      <item itemvalue="Spring Boot.SpringBootCacheApplication" />
+      <item itemvalue="JUnit.JedisTest.testJedis" />
+      <item itemvalue="JUnit.JedisTest.testJedisPool" />
+      <item itemvalue="JUnit.SpringBootCacheApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringBootDataJdbcApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringBootCacheApplicationTests.test02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SpringBootDataRedisApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.SpringBootDataRedisApplicationTests.getSet" />
-        <item itemvalue="JUnit.SpringBootDataRedisApplicationTests.testSet" />
+        <item itemvalue="JUnit.SpringBootCacheApplicationTests.test02" />
+        <item itemvalue="JUnit.SpringBootCacheApplicationTests.contextLoads" />
         <item itemvalue="JUnit.SpringBootDataJdbcApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.SpringBoot03LoggingApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.JedisTest.testJedisPool" />
+        <item itemvalue="JUnit.JedisTest.testJedis" />
       </list>
     </recent_temporary>
   </component>
@@ -657,50 +590,116 @@
       <option name="presentableId" value="Default" />
       <updated>1561795688480</updated>
       <workItem from="1561795690966" duration="15235000" />
-      <workItem from="1561862666231" duration="27665000" />
+      <workItem from="1561862666231" duration="29124000" />
+      <workItem from="1561948849714" duration="10441000" />
+      <workItem from="1562329486764" duration="2571000" />
+      <workItem from="1562391564128" duration="12117000" />
+      <workItem from="1562501162532" duration="1225000" />
+      <workItem from="1562510931329" duration="792000" />
+      <workItem from="1563800819596" duration="4361000" />
+      <workItem from="1563891388273" duration="49000" />
+      <workItem from="1564199015461" duration="1271000" />
+      <workItem from="1564200563374" duration="9588000" />
+      <workItem from="1564287606752" duration="8840000" />
+      <workItem from="1564666572328" duration="1980000" />
+      <workItem from="1564753353984" duration="6370000" />
+      <workItem from="1564800725281" duration="12516000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringBootDataJdbcApplicationTests_contextLoads - 2019.06.30 at 16h 07m 29s.xml">
-      <configuration name="SpringBootDataJdbcApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.07.27 at 18h 03m 55s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 18h 53m 49s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.07.27 at 18h 05m 41s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 18h 55m 34s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.07.27 at 18h 07m 03s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 21h 09m 38s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.07.27 at 18h 07m 55s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 21h 12m 01s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.08.02 at 22h 06m 03s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 21h 12m 49s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.08.02 at 22h 06m 41s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_testSet - 2019.06.30 at 21h 15m 01s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.testSet" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.08.02 at 22h 11m 20s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_getSet - 2019.06.30 at 21h 15m 59s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.getSet" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.08.02 at 22h 24m 36s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 22h 11m 11s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.08.02 at 22h 38m 23s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootDataRedisApplicationTests_contextLoads - 2019.06.30 at 22h 11m 56s.xml">
-      <configuration name="SpringBootDataRedisApplicationTests.contextLoads" configurationId="JUnit" />
+    <history-entry file="SpringBootCacheApplicationTests_contextLoads - 2019.08.02 at 23h 19m 18s.xml">
+      <configuration name="SpringBootCacheApplicationTests.contextLoads" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42900000" />
+    <option name="totallyTimeSpent" value="116480000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="4" width="1330" height="770" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.24449685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4945355" visible="true" weight="0.22453083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" sideWeight="0.5054645" side_tool="true" weight="0.21045576" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7331081" weight="0.4648094" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55865103" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
+      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.4991554" weight="0.32844576" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.347185" side_tool="true" weight="0.5073314" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.581571" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4991554" weight="0.32844576" />
+      <window_info anchor="bottom" id="Problems" order="11" sideWeight="0.4991554" weight="0.32923076" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.4974662" weight="0.32697946" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.82171583" weight="0.4222874" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.17828418" side_tool="true" weight="0.48533726" />
+      <window_info anchor="bottom" id="MyBatis Log" order="17" />
+      <window_info anchor="bottom" id="Run Dashboard" order="18" sideWeight="0.652815" weight="0.3900293" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="19" weight="0.32892805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5012658" side_tool="true" weight="0.3454392" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49873418" weight="0.26742628" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Redis Servers" order="11" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.21686748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.5012658" side_tool="true" weight="0.25844595" />
@@ -709,23 +708,26 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7331081" weight="0.042345278" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.4991554" weight="0.32844576" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4991554" weight="0.32844576" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2652027" side_tool="true" weight="0.3923077" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32991204" />
-      <window_info anchor="bottom" id="Problems" order="11" sideWeight="0.4991554" weight="0.32923076" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.4974662" weight="0.32697946" />
-      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.82171583" visible="true" weight="0.11563518" />
-      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.17828418" side_tool="true" weight="0.48533726" />
+      <window_info id="Alibaba Cloud Explorer" order="9" />
+      <window_info anchor="bottom" id="MyBatis Log" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.7331081" weight="0.042345278" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.4991554" weight="0.32844576" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4991554" weight="0.32844576" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2652027" side_tool="true" weight="0.3923077" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32991204" />
+      <window_info anchor="bottom" id="Problems" order="12" sideWeight="0.4991554" weight="0.32923076" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" sideWeight="0.4974662" weight="0.32697946" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" sideWeight="0.82171583" weight="0.039589442" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.17828418" side_tool="true" weight="0.48533726" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="18" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -737,45 +739,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873418" visible="true" weight="0.2476415" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="JRebel" order="3" sideWeight="0.5012658" side_tool="true" weight="0.25844595" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7331081" weight="0.042345278" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" sideWeight="0.4991554" weight="0.32844576" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4991554" weight="0.32844576" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2652027" side_tool="true" weight="0.3923077" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Problems" order="11" sideWeight="0.4991554" weight="0.32923076" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" sideWeight="0.4974662" weight="0.32697946" />
-      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.82171583" visible="true" weight="0.20358306" />
-      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.17828418" side_tool="true" weight="0.48533726" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.5012658" side_tool="true" weight="0.3454392" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49873418" weight="0.2808311" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Redis Servers" order="11" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -784,399 +748,384 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/SoftWare/mavenstorage/repository/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar!/com/zaxxer/hikari/pool/HikariPool.class</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/mybatis/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/pom.xml">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/mybatis/mybatis-spring/2.0.1/mybatis-spring-2.0.1.jar!/org/mybatis/spring/transaction/SpringManagedTransaction.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        <state relative-caret-position="163">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/SpringBootDataMybatisApplication.java">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/spring-jdbc/5.1.8.RELEASE/spring-jdbc-5.1.8.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="97">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0-sources.jar!/com/zaxxer/hikari/HikariDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+        <state relative-caret-position="154">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk-8u91-windows-x64/src.zip!/javax/annotation/Resource.java">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0-sources.jar!/com/zaxxer/hikari/pool/HikariPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="53" column="10" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="10" />
+        <state relative-caret-position="382">
+          <caret line="466" selection-start-line="466" selection-end-line="466" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk-8u91-windows-x64/src.zip!/java/lang/annotation/Retention.java">
+    <entry file="jar://D:/jdk-8u91-windows-x64/src.zip!/java/sql/SQLException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+        <state relative-caret-position="3264">
+          <caret line="253" column="18" selection-start-line="253" selection-start-column="18" selection-end-line="253" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0-sources.jar!/com/zaxxer/hikari/pool/PoolBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="472" column="57" selection-start-line="472" selection-start-column="46" selection-end-line="472" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/utils/RedisObjectSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/bean/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/controller/RedisTestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/RedisTwoConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="51" column="54" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/web/server/WebServerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/web/server/WebServerFactoryCustomizer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/web/server/ErrorPageRegistry.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/web/server/ConfigurableWebServerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java/com/kayleoi/springbootwebrestfulcurd/config/MyServerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
-          <folding>
-            <element signature="e#2562#2563#0" expanded="true" />
-            <element signature="e#2611#2612#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="36" column="57" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter/src/main/java/com/kayleoi/springbootstarter/SpringBootStarterApplication.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/SpringBootDataRedisApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-starter/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/bean/Member.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="-66">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/SpringBootDataRedisApplication.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/controller/RedisTestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/test/java/com/kayleoi/springbootdataredis/SpringBootDataRedisApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="210">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/resources/application-redis.yml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/RedisTwoConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java/com/kayleoi/springbootdataredis/config/sentinel/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-start-test/src/main/java/com/kayleoi/springbootstarttest/SpringBootStartTestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-logging/src/main/java/com/kayleoi/springboot/SpringBoot03LoggingApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-config/src/main/java/com/kayleoi/springbootconfig/controller/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-Redis-master/src/main/java/com/service/RedisService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-config/src/main/java/com/kayleoi/springbootconfig/SpringBootConfigApplication.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-Redis-master/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="114">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-config-autoconfig/src/main/java/com/kayleoi/springboot/SpringBoot02ConfigAutoconfigApplication.java">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/serializer/GenericJackson2JsonRedisSerializer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/controller/JdbcController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="190">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/SpringBootDataJdbcApplication.java">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/serializer/RedisSerializer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="361">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/controller/UserController.java">
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/serializer/JdkSerializationRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-312">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/core/RedisAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/connection/RedisConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/cache/CacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1393">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="30" column="63" lean-forward="true" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-Redis-master/src/main/java/com/config/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/2.1.9.RELEASE/spring-data-redis-2.1.9.RELEASE.jar!/org/springframework/data/redis/cache/RedisCacheManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-Redis-master/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/spring-context/4.3.24.RELEASE/spring-context-4.3.24.RELEASE.jar!/org/springframework/cache/interceptor/CacheAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/1.8.0.RELEASE/spring-data-redis-1.8.0.RELEASE-sources.jar!/org/springframework/data/redis/cache/RedisCacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/1.8.22.RELEASE/spring-data-redis-1.8.22.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9861">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/CacheAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/data/spring-data-redis/1.8.22.RELEASE/spring-data-redis-1.8.22.RELEASE.jar!/org/springframework/data/redis/cache/RedisCacheManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2337">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#1595#1596#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/SoftWare/mavenstorage/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/cache/RedisCacheConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/bean/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/config/MyCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/test/java/com/kayleoi/springbootcache/SpringBootCacheApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="55" column="44" lean-forward="true" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/SpringBootCacheApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/java/com/kayleoi/springbootjpa/SpringBootJpaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/controller/DeptController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#864#865#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1170#1171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Department.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/controller/DeartmentController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/bean/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/DepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/mapper/EmployeeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/MyBatisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java/com/kayleoi/springbootdatamybatis/config/DruidConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-          <folding>
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java/com/kayleoi/springbootdatajdbc/config/DruidConfig.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/mapper/DepartmentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/service/DepartmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/mapper/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/config/MyRedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/kayleoi/springbootcache/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="99" column="33" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1186,6 +1135,77 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|spring-boot-yml</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
