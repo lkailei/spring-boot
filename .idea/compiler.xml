@@ -19,6 +19,8 @@
         <module name="spring-boot-helloword" />
         <module name="spring-boot-jpa" />
         <module name="spring-boot-logging" />
+        <module name="spring-boot-mq" />
+        <module name="spring-boot-oracle" />
         <module name="spring-boot-Redis-master" />
         <module name="spring-boot-start-test" />
         <module name="spring-boot-starter" />
@@ -41,6 +43,8 @@
       <module name="spring-boot-helloword" target="1.8" />
       <module name="spring-boot-jpa" target="1.8" />
       <module name="spring-boot-logging" target="1.8" />
+      <module name="spring-boot-mq" target="1.8" />
+      <module name="spring-boot-oracle" target="1.8" />
       <module name="spring-boot-Redis-master" target="1.8" />
       <module name="spring-boot-start-test" target="1.8" />
       <module name="spring-boot-starter" target="1.8" />
@@ -60,6 +64,8 @@
       <module name="spring-boot-data-redis" options="-parameters" />
       <module name="spring-boot-helloword" options="-parameters" />
       <module name="spring-boot-jpa" options="-parameters" />
+      <module name="spring-boot-mq" options="-parameters" />
+      <module name="spring-boot-oracle" options="-parameters" />
       <module name="spring-boot-start-test" options="-parameters" />
       <module name="spring-boot-starter" options="-parameters" />
       <module name="spring-boot-web-jsp" options="-parameters" />

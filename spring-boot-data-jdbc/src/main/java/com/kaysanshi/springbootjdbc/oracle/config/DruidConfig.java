@@ -1,4 +1,4 @@
-package com.kayleoi.springbootdatajdbc.config;
+package com.kaysanshi.springbootjdbc.oracle.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;

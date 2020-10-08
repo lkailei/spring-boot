@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-helloword/spring-boot-helloword.iml" filepath="$PROJECT_DIR$/spring-boot-helloword/spring-boot-helloword.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-data-jpa/spring-boot-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" filepath="$PROJECT_DIR$/spring-boot-logging/spring-boot-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mq/spring-boot-mq.iml" filepath="$PROJECT_DIR$/spring-boot-mq/spring-boot-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-oracle/spring-boot-oracle.iml" filepath="$PROJECT_DIR$/spring-boot-oracle/spring-boot-oracle.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-start-test/spring-boot-start-test.iml" filepath="$PROJECT_DIR$/spring-boot-start-test/spring-boot-start-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-starter/spring-boot-starter.iml" filepath="$PROJECT_DIR$/spring-boot-starter/spring-boot-starter.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-web-jsp/spring-boot-web-jsp.iml" filepath="$PROJECT_DIR$/spring-boot-web-jsp/spring-boot-web-jsp.iml" />

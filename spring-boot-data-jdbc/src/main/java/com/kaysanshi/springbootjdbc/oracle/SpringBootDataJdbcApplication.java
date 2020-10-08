@@ -1,4 +1,4 @@
-package com.kayleoi.springbootdatajdbc;
+package com.kaysanshi.springbootjdbc.oracle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.kayleoi.springbootdatajdbc.controller;
+package com.kaysanshi.springbootjdbc.oracle.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
