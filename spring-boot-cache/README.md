@@ -94,10 +94,10 @@ Spring从3.1开始定义了org.springframework.cache.Cache
 
 3.redis的配置类：
 
-    package com.kayleoi.springbootcache.config;
+    package com.kaysanshi.springbootcache.config;
     
-    import com.kayleoi.springbootcache.bean.Department;
-    import com.kayleoi.springbootcache.bean.Employee;
+    import Department;
+    import Employee;
     import org.springframework.context.annotation.Bean;
     import org.springframework.context.annotation.Configuration;
     import org.springframework.context.annotation.Primary;
@@ -201,7 +201,7 @@ Spring从3.1开始定义了org.springframework.cache.Cache
      */
     
     @SpringBootApplication
-    @MapperScan("com.kayleoi.springbootcache.mapper")
+    @MapperScan("com.kaysanshi.springbootcache.mapper")
     @EnableCaching
     public class SpringBootCacheApplication {
     
@@ -214,10 +214,10 @@ Spring从3.1开始定义了org.springframework.cache.Cache
 
 service层：
 
-    package com.kayleoi.springbootcache.service;
+    package com.kaysanshi.springbootcache.service;
     
-    import com.kayleoi.springbootcache.bean.Employee;
-    import com.kayleoi.springbootcache.mapper.EmployeeMapper;
+    import Employee;
+    import EmployeeMapper;
     import org.springframework.beans.factory.annotation.Autowired;
     import org.springframework.cache.annotation.*;
     import org.springframework.stereotype.Service;

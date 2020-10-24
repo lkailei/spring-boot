@@ -4,12 +4,18 @@ import java.io.InputStream;
 import java.io.RandomAccessFile;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @Author kay三石
  * @date:2020/10/3
  */
 public class DownUtil {
+    public static void main(String[] args) {
+        Map map=new HashMap<>(18);
+        map.size();
+    }
     // 定义下载资源的路径
     private String path;
     // 指定所下载的文件的保存位置

@@ -6,7 +6,7 @@
    <!--    public Employee getEmpById(Integer id);
 
     public void insertEmp(Employee employee);-->
-    <select id="getEmpById" resultType="com.kayleoi.springbootdatamybatis.bean.Employee">
+    <select id="getEmpById" resultType="com.kaysanshi.springbootdatamybatis.bean.Employee">
         SELECT * FROM employee WHERE id=#{id}
     </select>
 
