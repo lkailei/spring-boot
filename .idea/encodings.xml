@@ -2,21 +2,38 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/spring-boot-Redis-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-Redis-master/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-cache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-config-autoconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-config-autoconfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-config/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-data-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-data-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-data-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-data-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-data-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-data-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-data-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-data-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-helloword" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-helloword/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-logging/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-oracle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-oracle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-start-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-start-test/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-starter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-web-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web-jsp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-web-restfulcurd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-web-restfulcurd/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-yml/src/main/java" charset="UTF-8" />
   </component>
 </project>
